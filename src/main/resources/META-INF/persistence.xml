@@ -6,7 +6,7 @@
 			<!-- MySQL -->
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
 			<property name="javax.persistence.jdbc.url"  
-					  value="jdbc:mysql://localhost:3306/ciberfarmadawi?serverTimezone=UTC" />
+					  value="jdbc:mysql://localhost:3306/CL1_EscobarAdrian?serverTimezone=UTC" />
 			<property name="javax.persistence.jdbc.password" value="mysql"/>
 			<property name="javax.persistence.jdbc.user" value="root"/>
 			<!-- Manejador Hibernate -->
